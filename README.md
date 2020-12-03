@@ -1,7 +1,11 @@
 # leeeeeetcode
-Documentation of my solution for leetcode.
+leetcode tracking:
+Algorithm (7)
+SQL (3)
 
+
+Background:
     Bachelor - Economics and Finance
     Master - Data Analytics
     Current position - Data analyst at a fintech company
-    Language - Python
+    Skills - Python, SQL, Linux/Unix command
