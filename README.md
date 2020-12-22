@@ -2,7 +2,7 @@
 leetcode tracking:
     
     Algorithm (7)
-    SQL (36)
+    SQL (41/141)
 
 
 Background:
